@@ -5,7 +5,7 @@ I found this the best intro course ever for QM. Nonetheless, I was confused by l
 
 In my notes I fill in tons of details so that I could better understand.
 Often I would re-order the presentation of a topic in what to me is a more logical order.
-   I retained the book's equation numbers but this causes them to sometimes be a little out-of-order.
+   I retained the book's equation numbers but this causes them to sometimes be a little out-of-order in my notes.
 I also numbered many more equations, many in the book but un-numbered, lots of them not in the book but needed.
 I prove many of the statements that were made but not proved. Again, for my own understanding.
 
