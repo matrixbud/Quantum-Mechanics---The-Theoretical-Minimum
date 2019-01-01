@@ -1,5 +1,5 @@
 # Quantum-Mechanics---The-Theoretical-Minimum
-My "class" notes and problem solution. All are typed with MS Word and I made a pdf file of each as well.
+My "class" notes and problem solutions. All are typed with MS Word and I made a pdf file of each as well.
 
 I found this the best intro course ever for QM. Nonetheless, I was confused by lots and lots of things.
 
